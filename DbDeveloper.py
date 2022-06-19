@@ -1,7 +1,7 @@
 
 # import mysql.connector
 
-# db = mysql.connector.connect(host = 'localhost', user = 'root', password = 'DatabaseForSure525', database = 'classicmodels')
+# db = mysql.connector.connect(host = 'localhost', user = 'root', password = ' *** ', database = 'classicmodels')
 
 # if (db.is_connected( )) :
 #     print("\n Connection Established \n")
@@ -25,7 +25,7 @@
 
 import mysql.connector
 
-db = mysql.connector.connect(host = 'localhost', user = 'root', password = 'DatabaseForSure525', database = 'Dbexam')
+db = mysql.connector.connect(host = 'localhost', user = 'root', password = ' *** ', database = 'Dbexam')
 
 if (db.is_connected( )) :
     print("\n Connection Established \n")
